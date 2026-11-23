@@ -10,3 +10,4 @@ Una vez el problema esté resuelto, deben volver a aparecer como disponibles.
 Discusión:
 Los investigadores NO tienen acceso al listado de dispositivos averiados, si lo están no pueden hacer la reserva.
 Se debe incluir una pequeña descripción del problema para agilizar el trabajo.
+
