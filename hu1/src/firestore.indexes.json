@@ -1,0 +1,14 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "solicitudes_registro",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "estado", "order": "ASCENDING" },
+        { "fieldPath": "prioridad", "order": "ASCENDING" },
+        { "fieldPath": "creado_en", "order": "ASCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
