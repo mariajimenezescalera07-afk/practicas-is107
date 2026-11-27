@@ -14,3 +14,4 @@ Criterios de validación:
 
 Discusión:
 El administrador será el encargado de validar las solicitudes de registro tanto de investigadores de la UCO como de investigadores externos, asegurando que solo los usuarios previamente autorizados puedan utilizar las funciones de reserva del sistema.
+
